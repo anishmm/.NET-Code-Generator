@@ -1,4 +1,4 @@
-# .NET-Code-Author
+# .NET Code Author
 <h3>.Net based DAL Code Author Free</h3>
 
 <p>Code Author will build a simple, yet powerful open source Data Access Layer (DAL) in C# and all related Database Stored Procedures in SQL Server. Using Microsoft Enterprise Library</p>
